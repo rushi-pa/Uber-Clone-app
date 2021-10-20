@@ -1,3 +1,2 @@
 # Uber-Clone-app
-
-Lab Specs On the Way
+APP Specs On the Way
